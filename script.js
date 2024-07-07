@@ -114,7 +114,7 @@ function changeBg(status) {
     }
 
     else {
-        document.body.style.backgroundImage = 'url(img/bg3.jpg)';
+        document.body.style.backgroundImage = 'url(img/morning_travel_newzealand_sky_cloud_mountain_colour_water-949981.jpg)';
     }
 }
 
